@@ -66,3 +66,7 @@ The dataset `ipl_2022.csv` contains the following columns:
 
 4. **Interact with the Dash App**: Use the Dash app to interactively explore matches played at different stadiums.
 
+
+Contributing
+Feel free to contribute to this project by adding new features, fixing bugs, or improving the analysis code.
+Just fork the repository, make your changes, and submit a pull request.
